@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tsetuserregistration.UserRegTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-04T03:40:35" hostname="LAPTOP-CDF5Q9QC" time="0.05">
+  <properties/>
+  <testcase name="lastName()" classname="com.tsetuserregistration.UserRegTest" time="0.038"/>
+  <testcase name="mobile()" classname="com.tsetuserregistration.UserRegTest" time="0.001"/>
+  <testcase name="email()" classname="com.tsetuserregistration.UserRegTest" time="0.002"/>
+  <testcase name="firstnameValidate()" classname="com.tsetuserregistration.UserRegTest" time="0.002"/>
+  <testcase name="password()" classname="com.tsetuserregistration.UserRegTest" time="0.002"/>
+  <system-out><![CDATA[thank you
+thank you
+thank you
+thank you
+thank you
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
